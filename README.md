@@ -4,6 +4,7 @@ The World Cup 2024 Image Gallery is a web application that displays a curated co
 
 
 Features
+
 -Interactive Image Gallery: Users can click on thumbnails to view larger versions of images.
 
 -Responsive Design: The gallery is fully responsive, working seamlessly on desktops, tablets, and smartphones.
@@ -12,5 +13,7 @@ Features
 Technologies Used
 
 -HTML5: For structuring the gallery and content.
+
 -CSS3: For styling the gallery, including animations, layout, and responsiveness.
+
 -JavaScript: For handling interactivity, such as filtering images, lightbox functionality, and search.
